@@ -1,4 +1,3 @@
 #[test]
 fn it_works() { 
-    assert_eq("Hello", "Hello");
 }
